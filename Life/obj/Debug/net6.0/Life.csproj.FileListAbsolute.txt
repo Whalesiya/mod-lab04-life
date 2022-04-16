@@ -1,0 +1,15 @@
+C:\Users\123\Desktop\Life\Life\Life\bin\Debug\net6.0\Life.exe
+C:\Users\123\Desktop\Life\Life\Life\bin\Debug\net6.0\Life.deps.json
+C:\Users\123\Desktop\Life\Life\Life\bin\Debug\net6.0\Life.runtimeconfig.json
+C:\Users\123\Desktop\Life\Life\Life\bin\Debug\net6.0\Life.dll
+C:\Users\123\Desktop\Life\Life\Life\bin\Debug\net6.0\Life.pdb
+C:\Users\123\Desktop\Life\Life\Life\obj\Debug\net6.0\Life.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\Life\Life\Life\obj\Debug\net6.0\Life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\Life\Life\Life\obj\Debug\net6.0\Life.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\Life\Life\Life\obj\Debug\net6.0\Life.AssemblyInfo.cs
+C:\Users\123\Desktop\Life\Life\Life\obj\Debug\net6.0\Life.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Life\Life\Life\obj\Debug\net6.0\Life.dll
+C:\Users\123\Desktop\Life\Life\Life\obj\Debug\net6.0\refint\Life.dll
+C:\Users\123\Desktop\Life\Life\Life\obj\Debug\net6.0\Life.pdb
+C:\Users\123\Desktop\Life\Life\Life\obj\Debug\net6.0\Life.genruntimeconfig.cache
+C:\Users\123\Desktop\Life\Life\Life\obj\Debug\net6.0\ref\Life.dll
